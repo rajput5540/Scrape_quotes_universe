@@ -3,9 +3,9 @@
 ## 📝 Overview
 Scrape_quotes_universe is a project that involves scraping quotes data from the website Quotes to Scrape using BeautifulSoup, storing it in a structured format, and performing data analysis with SQL and Python. The project includes data collection, data storage, SQL querying, and data visualization to extract meaningful insights from the scraped quote data.
 
-### **Team Members**
+## **Team Members**
 - **Anas Zaki**
-- **Vishal Shing**
+- **Vishal Singh**
 
 ## 📂 Project Structure
 ```
