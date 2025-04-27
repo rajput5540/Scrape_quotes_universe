@@ -12,7 +12,7 @@ Scrape_quotes_universe/
 │── 📂 notebooks/              # Jupyter notebooks for analysis
 │   │── 📄 web_scraping.ipynb   # Web scraping script using BeautifulSoup
 │   │── 📄 EDA.ipynb            # Exploratory Data Analysis notebook
-│   │── 📄 sql_queries.ipynb    # SQL queries for extracting insights
+│   │── 📄 sql.ipynb    # SQL queries for extracting insights
 ```
 
 ## 🌐 Web Scraping
@@ -100,9 +100,3 @@ This project is open-source and available for modification and distribution.
 Feel free to fork the repository, submit issues, or suggest improvements!
 
 Happy Coding! 🚀
-
-
-
-
-�
-
