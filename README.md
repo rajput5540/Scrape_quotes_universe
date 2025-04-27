@@ -10,13 +10,13 @@ Scrape_quotes_universe is a project that involves scraping quotes data from the 
 ## 📂 Project Structure
 ```
 Scrape_quotes_universe/
-│── 📄 README.md               # Project documentation
+│── 📄 README.md                 # Project documentation
 │── 📂 data/                   # Contains raw and processed datasets
-│   │── 📄 Quotes__.csv         # Scraped quote data
+│   │── 📄 Quotes__.csv          # Scraped quote data
 │── 📂 notebooks/              # Jupyter notebooks for analysis
-│   │── 📄 web_scraping.ipynb   # Web scraping script using BeautifulSoup
-│   │── 📄 EDA.ipynb            # Exploratory Data Analysis notebook
-│   │── 📄 sql.ipynb    # SQL queries for extracting insights
+│   │── 📄 web_scraping.ipynb    # Web scraping script using BeautifulSoup
+│   │── 📄 EDA.ipynb             # Exploratory Data Analysis notebook
+│   │── 📄 sql.ipynb             # SQL queries for extracting insights
 ```
 
 ## 🌐 Web Scraping
